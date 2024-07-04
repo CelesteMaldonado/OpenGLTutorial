@@ -67,6 +67,6 @@ Proyecto
 
 ## Notas Adicionales
 
-Asegúrate de tener configuradas las rutas correctas para las bibliotecas y los archivos de cabecera de GLEW y GLFW en las propiedades del proyecto tal como se indica acá: [OpenGL Tutorial](https://laliga.atlassian.net/wiki/spaces/MTS/pages/8209432586/OpenGL+Tutorial).
+Asegúrate de tener configuradas las rutas correctas para las bibliotecas y los archivos de cabecera de GLEW y GLFW en las propiedades del proyecto.
 
 Si encuentras algún problema con la configuración del proyecto o la compilación, revisa las rutas de inclusión y dependencias en las propiedades del proyecto en Visual Studio.
