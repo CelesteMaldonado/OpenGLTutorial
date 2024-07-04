@@ -1,0 +1,17 @@
+.vs/
+/bin/
+/obj/
+/*.user
+/*.suo
+/*.cache
+/*.dll
+/*.exe
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+OpenGLTutorial/Debug/
+OpenGLTutorial/Release/
+OpenGLTutorial/*/Debug/
+OpenGLTutorial/*/Release/
+OpenGLTutorial/*/x64/
